@@ -2,6 +2,6 @@ Iván Paniagua Maldonado
 
 Práctica 2
 
--https://domnhallivan.github.io/P2-P2.github.io/
+-https://github.com/DomnhallIvan/PortafolioShido.github.io
 
--https://www.darkestdungeon.com/
+-https://domnhallivan.github.io/PortafolioShido.github.io/
